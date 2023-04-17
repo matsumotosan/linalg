@@ -1,0 +1,1 @@
+add_library(linalg matrix.cpp matrix.h)
